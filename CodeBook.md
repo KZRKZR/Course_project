@@ -23,11 +23,17 @@ activity name LAYING SITTING STANDING WALKING WALKING_DOWNSTAIRS WALKING_UPSTAIR
 ##"Subject.Train"             
 identifies the subject who performed the activity 1..30 
 ##"tBodyAcc-mean()-X"
-##"tBodyAcc-mean()-Y"          
+Mean value of accelerometer X-axial raw signals
+##"tBodyAcc-mean()-Y"
+Mean value of accelerometer Y-axial raw signals
 ##"tBodyAcc-mean()-Z"
-##"tBodyAcc-std()-X"           
+Mean value of accelerometer Z-axial raw signals
+##"tBodyAcc-std()-X"
+Standard deviation of accelerometer X-axial raw signals
 ##"tBodyAcc-std()-Y"
+Standard deviation of accelerometer Y-axial raw signals
 ##"tBodyAcc-std()-Z"           
+Standard deviation of accelerometer Z-axial raw signals
 ##"tGravityAcc-mean()-X"
 ##"tGravityAcc-mean()-Y"       
 ##"tGravityAcc-mean()-Z"
