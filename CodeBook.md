@@ -17,6 +17,7 @@ The set of variables that were estimated from these signals and included into ti
 mean(): Mean value
 std(): Standard deviation
 
+## All features are normalized and bounded within [-1,1].
 
 ##"Activities"                
 activity name LAYING SITTING STANDING WALKING WALKING_DOWNSTAIRS WALKING_UPSTAIRS
@@ -35,12 +36,19 @@ Standard deviation of accelerometer Y-axial raw signals
 ##"tBodyAcc-std()-Z"           
 Standard deviation of accelerometer Z-axial raw signals
 ##"tGravityAcc-mean()-X"
-##"tGravityAcc-mean()-Y"       
+Mean value of gyroscope X-axial raw signals
+##"tGravityAcc-mean()-Y"   
+Mean value of gyroscope Y-axial raw signals
 ##"tGravityAcc-mean()-Z"
-##"tGravityAcc-std()-X"        
+Mean value of gyroscope Z-axial raw signals
+##"tGravityAcc-std()-X"  
+Standard deviation of gyroscope X-axial raw signals
 ##"tGravityAcc-std()-Y"
+Standard deviation of gyroscope Y-axial raw signals
 ##"tGravityAcc-std()-Z"        
+Standard deviation of gyroscope Z-axial raw signals
 ##"tBodyAccJerk-mean()-X"
+
 ##"tBodyAccJerk-mean()-Y"      
 ##"tBodyAccJerk-mean()-Z"       
 ##"tBodyAccJerk-std()-X"       
