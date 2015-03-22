@@ -24,42 +24,53 @@ activity name LAYING SITTING STANDING WALKING WALKING_DOWNSTAIRS WALKING_UPSTAIR
 ##"Subject.Train"             
 identifies the subject who performed the activity 1..30 
 ##"tBodyAcc-mean()-X"
-Mean value of accelerometer X-axial raw signals
+Mean value of body acceleration X-axial raw signals
 ##"tBodyAcc-mean()-Y"
-Mean value of accelerometer Y-axial raw signals
+Mean value of body acceleration Y-axial raw signals
 ##"tBodyAcc-mean()-Z"
-Mean value of accelerometer Z-axial raw signals
+Mean value of body acceleration Z-axial raw signals
 ##"tBodyAcc-std()-X"
-Standard deviation of accelerometer X-axial raw signals
+Standard deviation of body acceleration X-axial raw signals
 ##"tBodyAcc-std()-Y"
-Standard deviation of accelerometer Y-axial raw signals
+Standard deviation of body acceleration Y-axial raw signals
 ##"tBodyAcc-std()-Z"           
-Standard deviation of accelerometer Z-axial raw signals
+Standard deviation of body acceleration Z-axial raw signals
 ##"tGravityAcc-mean()-X"
-Mean value of gyroscope X-axial raw signals
+Mean value of gravity acceleration X-axial raw signals
 ##"tGravityAcc-mean()-Y"   
-Mean value of gyroscope Y-axial raw signals
+Mean value of gravity acceleration Y-axial raw signals
 ##"tGravityAcc-mean()-Z"
-Mean value of gyroscope Z-axial raw signals
+Mean value of gravity acceleration Z-axial raw signals
 ##"tGravityAcc-std()-X"  
-Standard deviation of gyroscope X-axial raw signals
+Standard deviation of gravity acceleration X-axial raw signals
 ##"tGravityAcc-std()-Y"
-Standard deviation of gyroscope Y-axial raw signals
+Standard deviation of gravity acceleration Y-axial raw signals
 ##"tGravityAcc-std()-Z"        
-Standard deviation of gyroscope Z-axial raw signals
+Standard deviation of gravity acceleration Z-axial raw signals
 ##"tBodyAccJerk-mean()-X"
-
+Mean value of accelerometer X-axial Jerk signals
 ##"tBodyAccJerk-mean()-Y"      
-##"tBodyAccJerk-mean()-Z"       
-##"tBodyAccJerk-std()-X"       
+Mean value of accelerometer Y-axial Jerk signals
+##"tBodyAccJerk-mean()-Z"    
+Mean value of accelerometer Z-axial Jerk signals
+##"tBodyAccJerk-std()-X"     
+Standard deviation of accelerometer X-axial Jerk signals
 ##"tBodyAccJerk-std()-Y"
-##"tBodyAccJerk-std()-Z"       
+Standard deviation of accelerometer Y-axial Jerk signals
+##"tBodyAccJerk-std()-Z"  
+Standard deviation of accelerometer Z-axial Jerk signals
 ##"tBodyGyro-mean()-X"
-##"tBodyGyro-mean()-Y"         
+Mean value of gyroscope X-axial raw signals
+##"tBodyGyro-mean()-Y" 
+Mean value of gyroscope Y-axial raw signals
 ##"tBodyGyro-mean()-Z"
-##"tBodyGyro-std()-X"          
+Mean value of gyroscope Z-axial raw signals
+##"tBodyGyro-std()-X"    
+Standard deviation of gyroscope X-axial raw signals
 ##"tBodyGyro-std()-Y"
+Standard deviation of gyroscope Y-axial raw signals
 ##"tBodyGyro-std()-Z"          
+Standard deviation of gyroscope Z-axial raw signals
 ##"tBodyGyroJerk-mean()-X"
 ##"tBodyGyroJerk-mean()-Y"     
 ##"tBodyGyroJerk-mean()-Z"
