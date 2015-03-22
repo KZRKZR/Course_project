@@ -18,7 +18,7 @@ mean(): Mean value
 std(): Standard deviation
 
 
-"Activities"                activity name LAYING SITTING STANDING WALKING WALKING_DOWNSTAIRS WALKING_UPSTAIRS
+##"Activities"                activity name LAYING SITTING STANDING WALKING WALKING_DOWNSTAIRS WALKING_UPSTAIRS
 "Subject.Train"             identifies the subject who performed the activity 1..30 
 "tBodyAcc-mean()-X"
 "tBodyAcc-mean()-Y"          
