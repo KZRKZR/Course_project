@@ -72,44 +72,86 @@ Standard deviation of gyroscope Y-axial raw signals
 ##"tBodyGyro-std()-Z"          
 Standard deviation of gyroscope Z-axial raw signals
 ##"tBodyGyroJerk-mean()-X"
-##"tBodyGyroJerk-mean()-Y"     
+Mean value of gyroscope X-axial Jerk signals
+##"tBodyGyroJerk-mean()-Y" 
+Mean value of gyroscope Y-axial Jerk signals
 ##"tBodyGyroJerk-mean()-Z"
-##"tBodyGyroJerk-std()-X"      
+Mean value of gyroscope Z-axial Jerk signals
+##"tBodyGyroJerk-std()-X"
+Standard deviation of gyroscope X-axial Jerk signals
 ##"tBodyGyroJerk-std()-Y"
+Standard deviation of gyroscope Y-axial Jerk signals
 ##"tBodyGyroJerk-std()-Z"
+Standard deviation of gyroscope Z-axial Jerk signals
 ##"tBodyAccMag-mean()"
-##"tBodyAccMag-std()"          
+Mean value of magnitude body acceleration three-dimensional raw signals
+##"tBodyAccMag-std()"     
+Standard deviation of magnitude body acceleration three-dimensional raw signals
 ##"tGravityAccMag-mean()"
-##"tGravityAccMag-std()"       
+Mean value of magnitude gravity acceleration three-dimensional raw signals
+##"tGravityAccMag-std()"      
+Standard deviation of magnitude gravity acceleration three-dimensional raw signals
 ##"tBodyAccJerkMag-mean()"
-##"tBodyAccJerkMag-std()"      
+Mean value of magnitude body acceleration three-dimensional raw Jerk signals
+##"tBodyAccJerkMag-std()" 
+Standard deviation of magnitude body acceleration three-dimensional raw Jerk signals
 ##"tBodyGyroMag-mean()"
-##"tBodyGyroMag-std()"         
+Mean value of magnitude gyroscope three-dimensional raw signals
+##"tBodyGyroMag-std()"   
+Standard deviation of magnitude gyroscope three-dimensional raw signals
 ##"tBodyGyroJerkMag-mean()"
-##"tBodyGyroJerkMag-std()"     
+Mean value of magnitude gyroscope three-dimensional raw Jerk signals
+##"tBodyGyroJerkMag-std()"
+Standard deviation of magnitude gyroscope three-dimensional raw Jerk signals
 ##"fBodyAcc-mean()-X"
-##"fBodyAcc-mean()-Y"          
+Mean value of Fast Fourier Transform  of body acceleration X-axial raw signals
+##"fBodyAcc-mean()-Y"    
+Mean value of Fast Fourier Transform  of body acceleration Y-axial raw signals
 ##"fBodyAcc-mean()-Z"
-##"fBodyAcc-std()-X"           
+Mean value of Fast Fourier Transform  of body acceleration Z-axial raw signals
+##"fBodyAcc-std()-X"   
+Standard deviation of Fast Fourier Transform  of body acceleration X-axial raw signals
 ##"fBodyAcc-std()-Y"
+Standard deviation of Fast Fourier Transform  of body acceleration Y-axial raw signals
 ##"fBodyAcc-std()-Z"           
+Standard deviation of Fast Fourier Transform  of body acceleration Z-axial raw signals
 ##"fBodyAccJerk-mean()-X"
-##"fBodyAccJerk-mean()-Y"      
+Mean value of Fast Fourier Transform  of body acceleration X-axial raw Jerk signals
+##"fBodyAccJerk-mean()-Y" 
+Mean value of Fast Fourier Transform  of body acceleration Y-axial raw Jerk signals
 ##"fBodyAccJerk-mean()-Z"
+Mean value of Fast Fourier Transform  of body acceleration Z-axial raw Jerk signals
 ##"fBodyAccJerk-std()-X"       
+Standard deviation of Fast Fourier Transform  of body acceleration X-axial raw Jerk signals
 ##"fBodyAccJerk-std()-Y"
-##"fBodyAccJerk-std()-Z"       
+Standard deviation of Fast Fourier Transform  of body acceleration Y-axial raw Jerk signals
+##"fBodyAccJerk-std()-Z"    
+Standard deviation of Fast Fourier Transform  of body acceleration Z-axial raw Jerk signals
 ##"fBodyGyro-mean()-X"
-##"fBodyGyro-mean()-Y"         
+Mean value of Fast Fourier Transform  of gyroscope X-axial raw signals
+##"fBodyGyro-mean()-Y"
+Mean value of Fast Fourier Transform  of gyroscope Y-axial raw signals
 ##"fBodyGyro-mean()-Z"
+Mean value of Fast Fourier Transform  of gyroscope Z-axial raw signals
 ##"fBodyGyro-std()-X"          
+Standard deviation of Fast Fourier Transform  of gyroscope X-axial raw signals
 ##"fBodyGyro-std()-Y"
+Standard deviation of Fast Fourier Transform  of gyroscope Y-axial raw signals
 ##"fBodyGyro-std()-Z"          
+Standard deviation of Fast Fourier Transform  of gyroscope Z-axial raw signals
 ##"fBodyAccMag-mean()"
-##"fBodyAccMag-std()"          
+Mean value of Fast Fourier Transform  of magnitude body acceleration three-dimensional raw signals
+##"fBodyAccMag-std()"  
+Standard deviation of Fast Fourier Transform  of magnitude body acceleration three-dimensional raw signals
 ##"fBodyBodyAccJerkMag-mean()"
-##"fBodyBodyAccJerkMag-std()"  
+Mean value of Fast Fourier Transform  of magnitude body acceleration three-dimensional raw Jerk signals
+##"fBodyBodyAccJerkMag-std()"
+Standard deviation of Fast Fourier Transform  of magnitude body acceleration three-dimensional raw Jerk signals
 ##"fBodyBodyGyroMag-mean()"
-##"fBodyBodyGyroMag-std()"     
+Mean value of Fast Fourier Transform  of magnitude gyroscope three-dimensional raw signals
+##"fBodyBodyGyroMag-std()" 
+Standard deviation  of Fast Fourier Transform  of magnitude gyroscope three-dimensional raw signals
 ##"fBodyBodyGyroJerkMag-mean()"
+Mean value of Fast Fourier Transform  of magnitude gyroscope three-dimensional raw Jerk signals
 ##"fBodyBodyGyroJerkMag-std()" 
+Standard deviation  of Fast Fourier Transform  of magnitude gyroscope three-dimensional raw Jerk signals
