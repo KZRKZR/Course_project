@@ -1,11 +1,11 @@
 # Variables 
-## folder
+## folders
 main_folder,train_folder,test_folder
-## train data set
+## train data sets
 train_x_set,train_y_set,train_subj_set
-## test data set
+## test data sets
 test_x_set,test_y_set,test_subj_set
-## activity and features data set
+## activity and features data sets
 activity_labels,features
 ## union of training and test sets
 all_x_set,all_y_set,all_subj_set
